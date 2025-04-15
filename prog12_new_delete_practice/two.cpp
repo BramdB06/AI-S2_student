@@ -43,6 +43,7 @@ struct Enemy {
         strcpy(name, _n);
     }
     ~Enemy() {
+      	delete[] name;
         s_deletions_count++; // count+1 for deletion of Enemy object itself
     }
 };
@@ -68,6 +69,10 @@ int main() {
         enemies[i] = new Enemy(100, name);
     }
 
+    for (int i =0; i<nr_enemies ; i++) {
+        delete enemies[i];
+    }
+    delete[] enemies;
 
     std::cout << "Before deletion" << std::endl;
     enemies_print(enemies, nr_enemies);
