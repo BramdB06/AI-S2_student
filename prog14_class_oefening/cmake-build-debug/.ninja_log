@@ -1,0 +1,8 @@
+# ninja log v6
+15	823	7671088293729122	CMakeFiles/untitled1.dir/OfficeArticle.cpp.obj	8c5941120df9bf15
+23	828	7671088293812178	CMakeFiles/untitled1.dir/Book.cpp.obj	8c87d03e4734bc58
+31	903	7671088293890692	CMakeFiles/untitled1.dir/FictionBook.cpp.obj	8bd1c510aef31743
+40	904	7671088293981335	CMakeFiles/untitled1.dir/Biography.cpp.obj	58b6ffd5ad91ba0d
+47	922	7671088294051324	CMakeFiles/untitled1.dir/Branch.cpp.obj	cf438fff483ac90
+4	985	7671088293623790	CMakeFiles/untitled1.dir/main.cpp.obj	8f44d4ebe7698498
+986	1273	7671088303428207	untitled1.exe	a6f3b4cfc49bbe2d
