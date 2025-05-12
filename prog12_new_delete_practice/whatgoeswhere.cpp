@@ -1,4 +1,3 @@
-// (<XXX> HUGenerateStudentVersion=True)
 #include <iostream>
 using std::cout;
 static int resultaat;
@@ -8,6 +7,7 @@ int doeNogMeer(int& a, int& b){
     b -= 3;
     int* c = new int(4);
     cout << "a: " << a << "\nb: " << b << "\n" << "c: " << c << "\n";
+
     return a*b**c;
 }
 
