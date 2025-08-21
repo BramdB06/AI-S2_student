@@ -16,19 +16,19 @@ voor je projecten. Dit voorkomt vaak problemen met _dependencies_.
 
 ## Installatie
 
-Als er nog geen omgeving genaamd `ai-s2` is, creeer deze dan door in de Anaconda
+Als er nog geen omgeving genaamd `ai_s2` is, creeer deze dan door in de Anaconda
 Prompt (`conda`) naar de directory van deze repository te gaan en daar te typen:
 ```conda env create -f ai_s2_conda.yaml```
 
 ### Interpreter instellen in PyCharm
 
 1. Ga naar File >> Settings >> Project: _projectnaam_ >> Project Interpreter en dan:
-   1. kies `ai-s2` in het dropdown menu; of
+   1. kies `ai_s2` in het dropdown menu; of
    2. ga naar Add Interpreter >> Add Local Interpreter >> Conda Environment >>
-      Use Existing Environment >> selecteer `ai-s2` in het dropdown menu.
+      Use Existing Environment >> selecteer `ai_s2` in het dropdown menu.
 2. Klik rechtsonder in de GUI waar je 'Python' ziet staan.
 
 ### Interpreter instellen in VSCode
 
 1. Klik rechtsonder in de GUI waar je 'Python' ziet staan. Er komt midden bovenin je
-   scherm een dropdown menu, kies daar: `ai-s2`.
+   scherm een dropdown menu, kies daar: `ai_s2`.

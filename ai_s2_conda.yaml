@@ -1,9 +1,10 @@
-name: ai-s2
+name: ai_s2
 channels:
   - https://repo.anaconda.com/pkgs/main
   - conda-forge
   - defaults
 dependencies:
+  - python=3.13
   - gcc=14.*
   - pip=23.*
   - python=3.*
