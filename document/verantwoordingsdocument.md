@@ -128,24 +128,8 @@
 [comment]: # (Portfolio-items beslismoment)
 
 
-### 6 - Gestructureerde en ongestructureerde data
 
-> De student **manipuleert** en **benut** zowel ongestructureerde als gestructureerde data en databases met behulp van gegeven tools en talen.
-
-> Kennis & vaardigheden: dataverkenning, data opschonen, data interpreteren, datavisualisatie, datatransformatie, databases modelleren, SQL
-
-[comment]: # (Portfolio-items peilmoment 1)
-
----
-
-[comment]: # (Portfolio-items peilmoment 2)
-
----
-
-[comment]: # (Portfolio-items beslismoment)
-
-
-### 7 - Onderzoekend vermogen
+### 6 - Onderzoekend vermogen
 
 > De student verzamelt onder begeleiding vanuit een nieuwsgierige en kritische houding volgens duidelijke instructies relevante informatie om hiermee een gegeven, enkelvoudig en duidelijk afgebakend vraagstuk op gestructureerde wijze op te lossen.
 
@@ -168,7 +152,7 @@
 [comment]: # (Portfolio-items beslismoment)
 
 
-### 8 - Organiserend vermogen
+### 7 - Organiserend vermogen
 
 > De student stelt op basis van een teamplanning onder begeleiding een eenvoudige planning voor zichzelf op ten behoeve van de uitvoering van een gegeven, eenvoudige taak met een zekere doorlooptijd, rekening houdend met gegeven standaarden, door deze op te delen in kleinere (deel)taken, past deze planning indien nodig aan naar aanleiding van nieuwe (kleine) gebeurtenissen en licht eventuele aanpassingen toe.
 
@@ -189,7 +173,7 @@
 
 
 
-### 9 - Interactief vermogen
+### 8 - Interactief vermogen
 
 > De student werkt onder begeleiding en passend binnen de context in een team samen aan een duidelijke taak en/of vanuit een duidelijke rol, waarbij deze anderen constructief en passend bij de situatie aanspreekt op hun gedrag en aan de hand van instructies of formats mondeling en/of schriftelijk communiceert met de opdrachtgever(s) op tenminste 3F/B2 niveau.
 
@@ -210,7 +194,7 @@
 [comment]: # (Portfolio-items beslismoment)
 
 
-### 10 - (Zelf)lerend vermogen
+### 9 - (Zelf)lerend vermogen
 
 > Student formuleert volgens instructie persoonlijke ambities en kwaliteiten en gebruikt andermans feedback om beargumenteerde keuzes te maken met het oog op de studieloopbaan. Student reflecteert op het eigen handelen en/of het handelen van individuele teamleden, haalt hiervoor feedback op bij peers en docenten, stelt eigen sterktes en verbeterpunten vast en vertaalt verbeterpunten naar concrete acties.
 
