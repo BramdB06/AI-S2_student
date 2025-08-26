@@ -42,12 +42,6 @@
 * [HW-I: Turing complete t/m level *Little Box*](https://canvas.hu.nl/courses/44855/assignments/327461/submissions/367387)
     * Dit item is onder niveau, maar het draagt desondanks bij aan de leeruitkomst, want ik heb na de deadline in een individueel gesprek met docent Peter aangetoond dat ik de logica van de oplossing kan uitleggen.
 
-* [Wildcard: Analyseren van Algoritmes](https://canvas.hu.nl/courses/44855/assignments/327461/submissions/367387)
-    * In deze leeruitkomst geef ik een analyse van de looptijd van de heuristiek voor galgje uit het groepsproject.
-    * Coderegels 24 t/m 42 in [module.py](https://github.com/AI-S2-Fundamentals-2024/superstudentje/megaopdracht/module.py) is individueel werk van mij binnen het groepsproject. De uitwerking van de groepsopdracht staat in deze  [repo](https://github.com/AI-S2-Fundamentals-2024/superstudentje/megaopdracht).
-    * Ik heb feedback van de docent gekregen en dit verwerkt in de opdracht 'Boommethode' op [Canvas](https://canvas.hu.nl/courses/44855/assignments/328081/submissions/367387).
-    * Ik heb feedback van een medestudent gekregen en dit verwerkt in een [pull request](https://github.com/AI-S2-Fundamentals-2024/superstudentje/megaopdracht/vettepullrequest).
-
 ---
 
 [comment]: # (Portfolio-items peilmoment 2)
