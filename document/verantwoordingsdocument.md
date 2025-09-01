@@ -3,10 +3,10 @@
 
 [comment]: # (Instructie: vul onderstaande velden in. 'Bijeenkomst' is peilmoment 1, peilmoment 2 of beslismoment.)
 
-* **Studentnummer**:
-* **Naam**:
-* **Bijeenkomst**:
-* **Datum**:
+* **1878845**:
+* **Bram de Bondt**:
+* **N.V.T**:
+* **01-09-2025**:
 
 
 ## Inleiding
@@ -78,6 +78,7 @@
 
 [comment]: # (Portfolio-items peilmoment 1)
 
+* [Mijn eerste portfolio](https://canvas.hu.nl/courses/50037/assignments/359486)
 ---
 
 [comment]: # (Portfolio-items peilmoment 2)
