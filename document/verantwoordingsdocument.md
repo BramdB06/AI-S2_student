@@ -3,10 +3,10 @@
 
 [comment]: # (Instructie: vul onderstaande velden in. 'Bijeenkomst' is peilmoment 1, peilmoment 2 of beslismoment.)
 
-* **1878845**:
-* **Bram de Bondt**:
-* **N.V.T**:
-* **01-09-2025**:
+* **Studentennummer**: 1878845
+* **Naam**: Bram de Bondt
+* **Bijeenkomst**: N.V.T
+* **Datum**: 01-09-2025
 
 
 ## Inleiding
