@@ -19,6 +19,7 @@ LET OP! Het is niet toegestaan om bestaande modules te importeren en te
 
 import builtins
 import random
+from tkinter.tix import InputOnly
 
 GREEN = "\x1b[32m"
 RED = "\x1b[31m"
@@ -39,18 +40,18 @@ BLACK = "\x1b[0m"
 # elif <conditie_2>:
 #     <code_blok_2>
 
-# TODO: <geef hier je antwoord>
+# TODO: <Bij stuk code 1 zijn het twee aparte if-statements. Als conditie 1 klopt dan voert hij code blok 1 uit en anders niks (want er is geen else), dan gaat hij door naar de tweede if-statement en doet hij hetzelfde. bij code stuk 2 is het één samengesteld if-statement met drie mogelijke uitkomsten: conditie 1 klopt en blok 1 wordt uitgevoerd, conditie 2 klopt en blok 2 wordt uitgevoerd, of er gebeurt niks omdate er weer geen else is.>
 
 
 # Opgave 2. Wat doet break in een for-loop? En continue?
 
-# TODO: <geef hier je antwoord>
+# TODO: <Een break gooit je uit een for loop, een continue brengt je terug naar het begin >
 
 
 # Opgave 3. De range() functie kan drie argumenten meekrijgen. 
 # Geef een voorbeeld van een range() functie met drie argumenten en leg uit wat de argumenten betekenen.
 
-# TODO: <geef hier je antwoord>
+# TODO: <bv. for i in range(0,10,2). hierbij begint het bij 0 en gaat hij tot 10 met stappen van 2. dus 0, 2, 4, 6, 8.>
 
 
 # Opgave 4. Wat is het verschil tussen onderstaande functies
@@ -61,30 +62,21 @@ BLACK = "\x1b[0m"
 # def functie_2():
 #     return <expressie_1>
 
-# TODO: <geef hier je antwoord>
+# TODO: <bij de bovenste print je een string, bij de onderste return je een variabele.>
 
 
 # Opgave 5. Wat is het belangrijkste verschil tussen een tuple en een list? Geef een voorbeeld van een tuple.
 
-# TODO: <geef hier je antwoord>
+# TODO: <lists kan je verandere, tuples niet.>
 
 
 # Opgave 6. Implementeer de functie trek_twee_kaarten() zoals beschreven in de desbetreffende docstring.
 
 def trek_twee_kaarten():
-    """
-    Trekt twee willekeurige kaarten uit een lijst van kaarten, en geef de totale waarde van deze kaarten terug.
-    De lijst met kaarten verandert niet na het trekken van een kaart (je hoeft dus geen kaarten te poppen uit de lijst).
-    De lijst met kaarten bevat de getallen 2 t/m 10, J, Q, K en A.
-    - De getallen 2 t/m 10 hebben de waarde van het getal zelf.
-    - De kaarten J, Q en K hebben de waarde 10.
-    - De kaart A heeft de waarde 11.
-
-    TIP: gebruik de random module om een willekeurige kaart te kiezen.
-
-    Returns:
-        int: De som van de twee kaarten.
-    """
+    J, Q, K = 10, 10, 10
+    A = 11
+    kaarten = [2,3,4,5,6,7,8,9,10,J,Q,K,A]
+    return int(random.choice(kaarten) + random.choice(kaarten))
     pass
 
 
@@ -102,6 +94,7 @@ else:
 # Opgave 7. Implementeer de functie beste_speler(scores) zoals beschreven in de desbetreffende docstring.
 
 def beste_speler(scores):
+
     """
     Vindt de spelersnaam met de hoogste score uit de gegeven scores.
 
@@ -128,17 +121,10 @@ else:
 # Opgave 8. Implementeer de functie vraag_getal_onder_n(n) zoals beschreven in de desbetreffende docstring.
 
 def vraag_getal_onder_n(n):
-    """
-    Vraag de gebruiker om een getal tussen 1 en n te geven. 
-    Als de gebruiker een getal buiten deze range invoert, 
-    print dan een foutmelding en vraag opnieuw om een getal.
-
-    Args:
-        n (int): Het maximale getal om te vragen aan de gebruiker.
-
-    Returns:
-        int: Het ingevoerde getal tussen 1 en n.
-    """
+    getal = int(input("geef een getal: "))
+    while getal >= n or getal < 1:
+        getal = int(input("probeer het opnieuw: "))
+    return getal
     pass
 
 
