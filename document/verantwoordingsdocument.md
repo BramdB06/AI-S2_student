@@ -5,8 +5,8 @@
 
 * **Studentennummer**: 1878845
 * **Naam**: Bram de Bondt
-* **Bijeenkomst**: N.V.T
-* **Datum**: 01-09-2025
+* **Bijeenkomst**: Peilmoment 1
+* **Datum**: 30-09-2025
 
 
 ## Inleiding
@@ -37,6 +37,9 @@
 
 [comment]: # (Portfolio-items peilmoment 1)
 
+* [[L&W-1] equivalentiebewijs](https://canvas.hu.nl/courses/50037/assignments/359509/submissions/354529)
+* [[PROG-I] API requests prioriteren](https://canvas.hu.nl/courses/50037/assignments/359518/submissions/354529)
+* [[PROG-III] Mastering Mastermind](https://canvas.hu.nl/courses/50037/assignments/359515/submissions/354529)
 ---
 
 [comment]: # (Portfolio-items peilmoment 2)
@@ -55,6 +58,8 @@
 
 [comment]: # (Portfolio-items peilmoment 1)
 
+* [[PROG-I] API requests prioriteren](https://canvas.hu.nl/courses/50037/assignments/359518/submissions/354529)
+* [[PROG-III] Mastering Mastermind](https://canvas.hu.nl/courses/50037/assignments/359515/submissions/354529)
 ---
 
 [comment]: # (Portfolio-items peilmoment 2)
@@ -92,6 +97,8 @@
 
 [comment]: # (Portfolio-items peilmoment 1)
 
+* [[CODE-1] Scavengerhunt](https://canvas.hu.nl/courses/50037/assignments/359496/submissions/354529)
+* [[PROG-II] Debugger](https://canvas.hu.nl/courses/50037/assignments/359516/submissions/354529)
 ---
 
 [comment]: # (Portfolio-items peilmoment 2)
@@ -109,6 +116,7 @@
 
 [comment]: # (Portfolio-items peilmoment 1)
 
+* [[PROG-I] API requests prioriteren](https://canvas.hu.nl/courses/50037/assignments/359518/submissions/354529)
 ---
 
 [comment]: # (Portfolio-items peilmoment 2)
