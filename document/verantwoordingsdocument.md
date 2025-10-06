@@ -196,10 +196,10 @@
 
 > Student formuleert volgens instructie persoonlijke ambities en kwaliteiten en gebruikt andermans feedback om beargumenteerde keuzes te maken met het oog op de studieloopbaan. Student reflecteert op het eigen handelen en/of het handelen van individuele teamleden, haalt hiervoor feedback op bij peers en docenten, stelt eigen sterktes en verbeterpunten vast en vertaalt verbeterpunten naar concrete acties.
 
-[comment]: Dit professionele vermogen toon je aan als onderdeel van het project. Voorbeelden van documentatie die je kunt aanleveren om dit vermogen aan te tonen:
+[comment]: - Dit professionele vermogen toon je aan als onderdeel van het project. Voorbeelden van documentatie die je kunt aanleveren om dit vermogen aan te tonen:
 [comment]: - Bijgehouden feedback in Canvas. Noteer de feedback die je voor opdrachten krijgt ook in het commentaar voor Canvas;
 [comment]: - De documentatie van de Sprint Review en Retrospective. Hier focussen we in beginsel op jullie peer assessments.
-[comment]: Bezijdens het bovengenoemde kun je hier per peilmoment schriftelijk antwoord geven op de volgende vragen:
+[comment]: - Bezijdens het bovengenoemde kun je hier per peilmoment schriftelijk antwoord geven op de volgende vragen:
 [comment]: - Wat voor een soort functie binnen de ICT zou je graag willen bekleden na je studie?
 [comment]: - Is dit veranderd sinds de start van je opleiding en/of het vorige peilmoment?
 [comment]: - Hoe heb je tot dusver taken kunnen oppakken binnen het project, die passen bij die functie?
@@ -224,6 +224,7 @@
 > Attitudes: nauwkeurig, doorzettend, verbeteringsgericht, communicatief, concreet analytisch
 
 [comment]: # (Beschrijving attitudes peilmoment 1)
+De twee attitudes waar ik mij voornamelijk in heb ontwikkeld dit semester zijn verbeteringsgerichtheid en doorzettingsvermogen. Dit komt door de compleet nieuwe stof die ik heb moeten leren en opdrachten mee heb moeten maken. Dit was soms erg lastig, maar ik moest het toch doen. Soms heb ik daarom nogal door moeten zetten om iets af te maken. Na het afmaken moest ik vrijwel elke keer feedback verwerken en hiermee mijn code verbeteren. Dit was erg leerzaam. De 
 
 ---
 
