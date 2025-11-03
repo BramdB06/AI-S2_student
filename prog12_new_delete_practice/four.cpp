@@ -45,10 +45,13 @@ struct Enemy {
         child = nullptr;
     }
     ~Enemy() {
-        s_deletions_count++; // count+1 for deletion of Enemy object itself
+        delete child;
+        ::operator delete[](name);
+        s_deletions_count++;
     }
 
     void set_child(int hp, const char* n) {
+        delete child;
         child = new Enemy(hp, n);
     }
 };
@@ -95,6 +98,11 @@ int main() {
 
     std::cout << "Before deletion" << std::endl;
     enemies_print(enemies, nr_enemies);
+
+    for (int i = 0; i < nr_enemies; i++) {
+        delete enemies[i];
+    }
+    delete[] enemies;
 
     std::cout << s_allocations_count << " allocations." << std::endl;
     std::cout << s_deletions_count << " deletions." << std::endl;

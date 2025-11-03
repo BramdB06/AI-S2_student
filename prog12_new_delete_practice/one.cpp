@@ -19,14 +19,14 @@ void* operator new[](size_t size) {
 void operator delete[](void* ptr){
     if (ptr) {
         s_deletions_count++;
-        free(ptr);  
+        free(ptr);
     }
 }
 
 void operator delete(void* ptr){
     if (ptr) {
         s_deletions_count++;
-        free(ptr); 
+        free(ptr);
     }
 }
 
@@ -35,9 +35,9 @@ struct Enemy {
 
     explicit Enemy(const int h ) : health(h) {    }
 
-//    ~Enemy() {
-//        s_deletions_count++; // count+1 for deletion of Enemy object itself
-//    }
+    ~Enemy() {
+        s_deletions_count++; // count+1 for deletion of Enemy object itself
+    }
 
 };
 
@@ -53,17 +53,22 @@ void enemies_print(Enemy** enemies, size_t nr_enemies)  {
 }
 
 int main() {
-    constexpr size_t    nr_enemies          = 40;
-    constexpr size_t    buddy_occurrence    = 5;
-    constexpr size_t    buddy_buddy_occ     = 20;
+    constexpr size_t nr_enemies       = 40;
+    constexpr size_t buddy_occurrence = 5;
+    constexpr size_t buddy_buddy_occ  = 20;
 
-    Enemy** enemies = new Enemy*[nr_enemies]{};
+    Enemy** enemies = new Enemy*[nr_enemies]{}; // 1 allocation (array of pointers)
     for (int i = 0; i < nr_enemies; i++) {
-        enemies[i] = new Enemy(100);
+        enemies[i] = new Enemy(100);            // 40 allocations (each Enemy)
     }
 
     std::cout << "Before deletion" << std::endl;
     enemies_print(enemies, nr_enemies);
+
+    for (int i = 0; i < nr_enemies; i++) {
+        delete enemies[i];
+    }
+    delete[] enemies;
 
     std::cout << s_allocations_count << " allocations." << std::endl;
     std::cout << s_deletions_count << " deletions." << std::endl;

@@ -19,14 +19,14 @@ void* operator new[](size_t size) {
 void operator delete[](void* ptr){
     if (ptr) {
         s_deletions_count++;
-        free(ptr);  
+        free(ptr);
     }
 }
 
 void operator delete(void* ptr){
     if (ptr) {
         s_deletions_count++;
-        free(ptr); 
+        free(ptr);
     }
 }
 
@@ -43,8 +43,10 @@ struct Enemy {
         strcpy(name, _n);
     }
     ~Enemy() {
-        s_deletions_count++; // count+1 for deletion of Enemy object itself
+        ::operator delete[](name);
+        s_deletions_count++;
     }
+
 };
 
 std::ostream& operator<<(std::ostream& os, const Enemy* e) {
@@ -68,9 +70,13 @@ int main() {
         enemies[i] = new Enemy(100, name);
     }
 
-
     std::cout << "Before deletion" << std::endl;
     enemies_print(enemies, nr_enemies);
+
+    for (int i = 0; i < nr_enemies; i++) {
+        delete enemies[i];
+    }
+    delete[] enemies;
 
     std::cout << s_allocations_count << " allocations." << std::endl;
     std::cout << s_deletions_count << " deletions." << std::endl;
