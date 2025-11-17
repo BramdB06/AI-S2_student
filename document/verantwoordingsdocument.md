@@ -6,7 +6,7 @@
 * **Studentennummer**: 1878845
 * **Naam**: Bram de Bondt
 * **Bijeenkomst**: Peilmoment 1
-* **Datum**: 30-09-2025
+* **Datum**: 17-11-2025
 
 
 ## Inleiding
@@ -14,10 +14,12 @@
 [comment]: # (Instructie: beschrijf in circa 200 woorden je ontwikkeling in de afgelopen periode. Doe dit in drie alinea's, waarin je achtereenvolgens antwoord geeft op de volgende vragen: 1. wat ging er goed in afgelopen periode; 2. wat kon er beter in afgelopen periode; 3. wat ga je komende periode vasthouden en/of verbeteren. Wees zo concreet mogelijk en geef voorbeelden.)
 
 [comment]: # (Inleiding peilmoment 1)
+Vorig peilmoment vergeten in te vullen (sorry), dus ik ga mijn best doen om oude herinneringen op te halen. Vorige periode heb ik mij vooral ontwikkeld in basisvaardigheden die met dit semester te maken hadden aan de hand van de inleveropdrachten. dus python programmeren, logica en een paar projectvaardigheden. Dit vond ik vrij goed gaan, soms liep ik tegen wat dingen aan maar dat hoort erbij. Dat vond ik over het algemeen dus vrij goed gaan afgelopen periode. ik heb namelijk alle opdrachten ingelevered en ook goed afgerond met een akkoord. wat niet zo goed ging was altijd op tijd beginnen met opdrachten, ik had over het algemeen alles op de dag van de deadline ingeleverd maar toch was het soms haasten om het goed af te krijgen waardoor ik nog laat op de dag (of nacht) bezig was. Wat ook beter kan ik dat ik mijn verantwoordingsdocument beter moet lezen, anders had ik dit vorige periode al getypt. volgende periode wil ik dus eerder proberen te beginnen met opdrachten en beter onthouden dat ik dit ook in moet vullen in het verantwoordingsoducument. verder wil ik natuurlijk wel alles in blijven leveren en er ook echt wat van leren, zodat ik alles goed kan afronden.
 
 ---
 
 [comment]: # (Inleiding peilmoment 2)
+afgelopen periode vond ik het redelijk goed gaan op een aantal dingen na. Ik vond het een prima semester en heb wel veel geleerd over python, object georienteerd programmeren en C++, dit was soms wel flink lastig dus ik liep best een aantal keer flink vast. Uiteindelijk is dit redelijk goed gekomen, ik heb alle opdrachten kunnen inleveren en elke keer na het feedback verwerken een akkoord gekregen. Verder heb ik ook veel geleerd over hoe scrum écht werkt, namelijk met twee week lange sprints, echte demo's, samenwerking, github, etc. Dit was vorig semester bij SD heel anders en daar werdt er veel minder op gelet, waardoor ik nu daar veel meer op moest focussen. Ik ben wel blij dat ik hierdoor een stuk nauwkeuriger ben gaan werken, beter ben gaan communiceren met groepsgenoten en meer weet over scrum in het algemeen. dus dat vond ik ook goed gaan afgelopen periode. wat daarentegen wat minder ging was de opdracht memory management, hier had ik vrij veel moeite mee en ook het mondelijk ging redelijk moeizaam. Hier wil ik komende periode sowieso meer tijd in steken om dit beter te begrijpen voor de opdracht dijkstra's algoritme, hier kijk ik namelijk helemaal NIET naar uit.
 
 ---
 
@@ -44,6 +46,7 @@
 
 [comment]: # (Portfolio-items peilmoment 2)
 
+* [[L&W-II] Verzamelingen](https://canvas.hu.nl/courses/50037/assignments/359507/submissions/354529)
 ---
 
 [comment]: # (Portfolio-items beslismoment)
@@ -64,6 +67,11 @@
 
 [comment]: # (Portfolio-items peilmoment 2)
 
+* [[PROG-IV] Skip-bo in objecten](https://canvas.hu.nl/courses/50037/assignments/359517/submissions/354529)
+* [[PROG-V] Statically Typed Programming in C++](https://canvas.hu.nl/courses/50037/assignments/359519/submissions/354529)
+* [[PROG-VI] Memory management](https://canvas.hu.nl/courses/50037/assignments/359514/submissions/354529)
+* [[CODE-III] Git Skills Fase 2](https://canvas.hu.nl/courses/50037/assignments/363756/submissions/354529)
+
 ---
 
 [comment]: # (Portfolio-items beslismoment)
@@ -83,6 +91,7 @@
 
 [comment]: # (Portfolio-items peilmoment 2)
 
+[[PROG-VI] Memory management](https://canvas.hu.nl/courses/50037/assignments/359514/submissions/354529)
 ---
 
 [comment]: # (Portfolio-items beslismoment)
@@ -103,6 +112,11 @@
 
 [comment]: # (Portfolio-items peilmoment 2)
 
+* [[CODE-II] Git Skills Fase 1](https://canvas.hu.nl/courses/50037/assignments/359497/submissions/354529)
+* [[PROG-V] Statically Typed Programming in C++](https://canvas.hu.nl/courses/50037/assignments/359519/submissions/354529)
+* [[PROG-VI] Memory management](https://canvas.hu.nl/courses/50037/assignments/359514/submissions/354529)
+* [[CODE-III] Git Skills Fase 2](https://canvas.hu.nl/courses/50037/assignments/363756/submissions/354529)
+
 ---
 
 [comment]: # (Portfolio-items beslismoment)
@@ -121,6 +135,8 @@
 
 [comment]: # (Portfolio-items peilmoment 2)
 
+* [[PROG-VI] Memory management](https://canvas.hu.nl/courses/50037/assignments/359514/submissions/354529)
+* [[CODE-III] Git Skills Fase 2](https://canvas.hu.nl/courses/50037/assignments/363756/submissions/354529)
 ---
 
 [comment]: # (Portfolio-items beslismoment)
@@ -224,11 +240,12 @@
 > Attitudes: nauwkeurig, doorzettend, verbeteringsgericht, communicatief, concreet analytisch
 
 [comment]: # (Beschrijving attitudes peilmoment 1)
-De twee attitudes waar ik mij voornamelijk in heb ontwikkeld dit semester zijn verbeteringsgerichtheid en doorzettingsvermogen. Dit komt door de compleet nieuwe stof die ik heb moeten leren en opdrachten mee heb moeten maken. Dit was soms erg lastig, maar ik moest het toch doen. Soms heb ik daarom nogal door moeten zetten om iets af te maken. Na het afmaken moest ik vrijwel elke keer feedback verwerken en hiermee mijn code verbeteren. Dit was erg leerzaam. De 
+De twee attitudes waar ik mij voornamelijk in heb ontwikkeld deze periode zijn verbeteringsgerichtheid en doorzettingsvermogen. Dit komt door de compleet nieuwe stof die ik heb moeten leren en opdrachten mee heb moeten maken. Dit was soms erg lastig, maar ik moest het toch doen. Soms heb ik daarom nogal door moeten zetten om iets af te maken. Na het afmaken moest ik vrijwel elke keer feedback verwerken en hiermee mijn code verbeteren. Dit was erg leerzaam. De gekregen feedback heb ik vervolgens ook meegenomen naar de volgende opdrachten.
 
 ---
 
 [comment]: # (Beschrijving attitudes peilmoment 2)
+De twee attitudes waar ik mij deze periode voornamelijk in heb ontwikkeld zijn communicatie en nauwkeurig. Door de aftrap van het project moet ik meer gaan communiceren met mijn groepsgenoten om het werkt goed te verdelen en het project vloeiend te laten verlopen. Hier had ik vorig semester ook al mee te maken maar daar waren sprint vaak langer dan twee weken waardoor ik het gevoel had dat communicatie minder belangrijk was. nu de sprints ook echt twee weken duren is communicatie erg belangrijk. Verder door het samenwerken in het project was het nu erg belangrijk om nauwkeurig te werken zodat mijn groepsgenoten de code kunnen overnemen en effectief verder kunnen werken. hierdoor ben ik meer gaan focussen op begrijpelijke code en wat meer comments zodat de code begrijpelijk is voor anderen. ook moest ik deze periode een aantal vrij lastige opdrachten inleven en vooral bij de C++ opdrachten was nauwkeurig werken zo belangrijk omdat daar alles zo precies vermeldt moet worden.
 
 ---
 
