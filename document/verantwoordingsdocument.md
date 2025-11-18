@@ -5,7 +5,7 @@
 
 * **Studentennummer**: 1878845
 * **Naam**: Bram de Bondt
-* **Bijeenkomst**: Peilmoment 1
+* **Bijeenkomst**: Peilmoment 2
 * **Datum**: 17-11-2025
 
 
@@ -263,7 +263,7 @@ De twee attitudes waar ik mij voornamelijk in heb ontwikkeld deze periode zijn v
 ---
 
 [comment]: # (Beschrijving attitudes peilmoment 2)
-De twee attitudes waar ik mij deze periode voornamelijk in heb ontwikkeld zijn communicatie en nauwkeurig. Door de aftrap van het project moet ik meer gaan communiceren met mijn groepsgenoten om het werkt goed te verdelen en het project vloeiend te laten verlopen. Hier had ik vorig semester ook al mee te maken maar daar waren sprint vaak langer dan twee weken waardoor ik het gevoel had dat communicatie minder belangrijk was. nu de sprints ook echt twee weken duren is communicatie erg belangrijk. Verder door het samenwerken in het project was het nu erg belangrijk om nauwkeurig te werken zodat mijn groepsgenoten de code kunnen overnemen en effectief verder kunnen werken. hierdoor ben ik meer gaan focussen op begrijpelijke code en wat meer comments zodat de code begrijpelijk is voor anderen. ook moest ik deze periode een aantal vrij lastige opdrachten inleven en vooral bij de C++ opdrachten was nauwkeurig werken zo belangrijk omdat daar alles zo precies vermeldt moet worden.
+De twee attitudes waar ik mij deze periode voornamelijk in heb ontwikkeld zijn communicatie en nauwkeurigigheid. Door de aftrap van het project moet ik meer gaan communiceren met mijn groepsgenoten om het werkt goed te verdelen en het project vloeiend te laten verlopen. Hier had ik vorig semester ook al mee te maken maar daar waren sprint vaak langer dan twee weken waardoor ik het gevoel had dat communicatie minder belangrijk was. nu de sprints ook echt twee weken duren is communicatie erg belangrijk. Verder door het samenwerken in het project was het nu erg belangrijk om nauwkeurig te werken zodat mijn groepsgenoten de code kunnen overnemen en effectief verder kunnen werken. hierdoor ben ik meer gaan focussen op begrijpelijke code en wat meer comments zodat de code begrijpelijk is voor anderen. ook moest ik deze periode een aantal vrij lastige opdrachten inleven en vooral bij de C++ opdrachten was nauwkeurig werken zo belangrijk omdat daar alles zo precies vermeldt moet worden.
 
 ---
 
