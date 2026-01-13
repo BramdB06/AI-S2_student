@@ -5,8 +5,8 @@
 
 * **Studentennummer**: 1878845
 * **Naam**: Bram de Bondt
-* **Bijeenkomst**: Peilmoment 2
-* **Datum**: 17-11-2025
+* **Bijeenkomst**: Peilmoment 3
+* **Datum**: 13-01-2026
 
 
 ## Inleiding
@@ -19,11 +19,12 @@ Vorig peilmoment vergeten in te vullen (sorry), dus ik ga mijn best doen om oude
 ---
 
 [comment]: # (Inleiding peilmoment 2)
-Afgelopen periode vond ik het redelijk goed gaan op een aantal dingen na. Ik vond het een prima semester en heb wel veel geleerd over python, object georienteerd programmeren en C++, dit was soms wel flink lastig dus ik liep best een aantal keer flink vast. Uiteindelijk is dit redelijk goed gekomen, ik heb alle opdrachten kunnen inleveren en elke keer na het feedback verwerken een akkoord gekregen. Verder heb ik ook veel geleerd over hoe scrum écht werkt, namelijk met twee week lange sprints, echte demo's, samenwerking, github, etc. Dit was vorig semester bij SD heel anders en daar werdt er veel minder op gelet, waardoor ik nu daar veel meer op moest focussen. Ik ben wel blij dat ik hierdoor een stuk nauwkeuriger ben gaan werken, beter ben gaan communiceren met groepsgenoten en meer weet over scrum in het algemeen. dus dat vond ik ook goed gaan afgelopen periode. wat daarentegen wat minder ging was de opdracht memory management, hier had ik vrij veel moeite mee en ook het mondelijk ging redelijk moeizaam. Hier wil ik komende periode sowieso meer tijd in steken om dit beter te begrijpen voor de opdracht dijkstra's algoritme, hier kijk ik namelijk helemaal NIET naar uit.
+Sinds vorig peilmoment vond ik het redelijk goed gaan op een aantal dingen na. Ik vond het een prima semester en heb wel veel geleerd over python, object georienteerd programmeren en C++, dit was soms wel flink lastig dus ik liep best een aantal keer flink vast. Uiteindelijk is dit redelijk goed gekomen, ik heb alle opdrachten kunnen inleveren en elke keer na het feedback verwerken een akkoord gekregen. Verder heb ik ook veel geleerd over hoe scrum écht werkt, namelijk met twee week lange sprints, echte demo's, samenwerking, github, etc. Dit was vorig semester bij SD heel anders en daar werdt er veel minder op gelet, waardoor ik nu daar veel meer op moest focussen. Ik ben wel blij dat ik hierdoor een stuk nauwkeuriger ben gaan werken, beter ben gaan communiceren met groepsgenoten en meer weet over scrum in het algemeen. dus dat vond ik ook goed gaan afgelopen periode. wat daarentegen wat minder ging was de opdracht memory management, hier had ik vrij veel moeite mee en ook het mondelijk ging redelijk moeizaam. Hier wil ik komende periode sowieso meer tijd in steken om dit beter te begrijpen voor de opdracht dijkstra's algoritme, hier kijk ik namelijk helemaal NIET naar uit.
 
 ---
 
 [comment]: # (Inleiding beslismoment)
+Sinds vorig peilmoment vond ik het erg goed gaan, ik had het gevoel dat ik redelijke stappen heb kunnen zetten als het gaat om zowel pythonkennis, als het werken in projectvorm. ik begon vaker net wat eerder aan een story en had deze ook vaak eerder af, verder overlegde ik meer met teamleden over code, ideeën voor het spel, etc. In deze periode is er vooral veel aan het project gewerkt maar tussendoor kwamen dijkstra, modellen en de toets. Dijkstra was tijdens het programmeren soms best lastig maar uiteindelijk verliep het mondeling best goed, ik was vrij snel klaar en het beantwoorden van de vragen ging ook best soepel. Modellen ging erg goed, vond het ook een leuke opdracht. Deze heb ik uiteindelijk ook boven niveau afgerond. De toets was een rare, sommige vragen (leken) wel goed te gaan, andere waren lsatig. dit verbaast me in principe niet want ik heb altijd al moeite gehad met exacte vakken uitdrukken in woorden dus iets uitleggen of onderbouwen bij zoiets vind ik lastig. Verder denk ik (en hoop ik) dat de toets wel goed is gegaan. Vooral het turing complete gedeelte vond ik wel lastig, ook natuurlijk omdat dit al een tijdje geleden was maar ook omdat dit heel puzzelig is en dat was nooit echt mijn ding. Ik denk dan vaak te moeilijk na waardoor ik fouten ga maken. Tot slot was er ook het beroepsproduct, dit is ook goed gegaan, was wel eventjes lastig maar heb ik uiteindelijk goed weten af te ronden.
 
 
 ## Leeruitkomsten
@@ -51,6 +52,9 @@ Afgelopen periode vond ik het redelijk goed gaan op een aantal dingen na. Ik von
 
 [comment]: # (Portfolio-items beslismoment)
 
+* [[L&W-III] Modellen](https://canvas.hu.nl/courses/50037/assignments/359505/submissions/354529)
+* [PROJ-Beroepsproduct](https://canvas.hu.nl/courses/50037/assignments/370913)
+
 
 
 ### 2 - Procedureel en object-georiënteerd programmeren
@@ -75,6 +79,10 @@ Afgelopen periode vond ik het redelijk goed gaan op een aantal dingen na. Ik von
 ---
 
 [comment]: # (Portfolio-items beslismoment)
+
+* [[PROG VII] C++: Dijkstra's algoritme](https://canvas.hu.nl/courses/50037/assignments/359512/submissions/354529)
+* [PROJ-Beroepsproduct](https://canvas.hu.nl/courses/50037/assignments/370913)
+
 
 
 
@@ -121,6 +129,9 @@ Afgelopen periode vond ik het redelijk goed gaan op een aantal dingen na. Ik von
 
 [comment]: # (Portfolio-items beslismoment)
 
+* [[PROG VII] C++: Dijkstra's algoritme](https://canvas.hu.nl/courses/50037/assignments/359512/submissions/354529)
+* [[CODE-IV] Git Skills Fase 3](https://canvas.hu.nl/courses/50037/assignments/363757/submissions/354529)
+
 
 ### 5 - Datastructuren
 
@@ -140,6 +151,8 @@ Afgelopen periode vond ik het redelijk goed gaan op een aantal dingen na. Ik von
 ---
 
 [comment]: # (Portfolio-items beslismoment)
+
+* [[PROG VII] C++: Dijkstra's algoritme](https://canvas.hu.nl/courses/50037/assignments/359512/submissions/354529)
 
 
 
@@ -165,6 +178,7 @@ Afgelopen periode vond ik het redelijk goed gaan op een aantal dingen na. Ik von
 
 [comment]: # (Portfolio-items beslismoment)
 
+* [PROJ-Beroepsproduct-PVA](https://canvas.hu.nl/courses/50037/assignments/370912/submissions/354529)
 
 ### 7 - Organiserend vermogen
 
@@ -192,6 +206,8 @@ Afgelopen periode vond ik het redelijk goed gaan op een aantal dingen na. Ik von
 
 [comment]: # (Portfolio-items beslismoment)
 
+* **Scrummaster zijn:** in sprint 4 was ik de scrummaster, dit vond ik zelf eerlijk gezegd niet extreem goed gaan en niet extreem slecht (als cijfer denk ik een 7 max). Ik wist al van mijzelf dat ik nooit echt een leider of iets dergelijks was qua persoonlijkheid, dus ik had al niks gigantisch goeds verwacht. ik had wat moeite met de stand-ups instantiëren. Ik heb hier uiteinedlijk wel veel van geleer den weet zeker dat ik het beter zou doen de volgende keer.
+
 
 
 ### 8 - Interactief vermogen
@@ -218,6 +234,8 @@ Afgelopen periode vond ik het redelijk goed gaan op een aantal dingen na. Ik von
 ---
 
 [comment]: # (Portfolio-items beslismoment)
+
+* **Online werken tijdens sneeuwvrij:** In de laatste sprint hadden we vrij ivm sneeuw, hierdoor moesten we comleet online werken wat soms wel lastig was. Uiteindelijk vond ik dat erg goed gaan, we hadden dagelijkse overlegmomenten online en appten redelijk wat met elkaar. Ik vond dat ik in ieder geval sowieso deze sprint veel en goed heb gecommuniceerd met mijn teamleden.
 
 
 ### 9 - (Zelf)lerend vermogen
@@ -250,12 +268,13 @@ Afgelopen periode vond ik het redelijk goed gaan op een aantal dingen na. Ik von
 
 [comment]: # (Portfolio-items beslismoment)
 
+* **Assets maken:** Tijdens een van mijn user stories had ik het maken van assets op me genomen. Hier moest ik best even mee puzzelen om te bedenken hoe ik assets in elkaar kon laten overlopen, het ontwerpen ervan en vooral hoe en waar ik ze kon maken. Na flink wat trail & error is het me redelijk gelukt om wat mooie dingen neer te zetten, ik ben best trots op het resultaat.
 
 ## Attitudes
 
 [comment]: # (Instructie: beschrijf voor minimaal één attitude hoe je je daar afgelopen periode in hebt ontwikkeld en hoe wij die houding kunnen terugzien in je werk. Aan het eind van het semester moeten alle attitudes hier eenmaal zijn beschreven. Scheid de peilmomenten met een horizontale streep. )
 
-> Attitudes: ~~nauwkeurig~~, ~~doorzettend~~, ~~verbeteringsgericht~~, ~~communicatief~~, concreet analytisch
+> Attitudes: ~~nauwkeurig~~, ~~doorzettend~~, ~~verbeteringsgericht~~, ~~communicatief~~, ~~concreet analytisch~~
 
 [comment]: # (Beschrijving attitudes peilmoment 1)
 De twee attitudes waar ik mij voornamelijk in heb ontwikkeld deze periode zijn verbeteringsgerichtheid en doorzettingsvermogen. Dit komt door de compleet nieuwe stof die ik heb moeten leren en opdrachten mee heb moeten maken. Dit was soms erg lastig, maar ik moest het toch doen. Soms heb ik daarom nogal door moeten zetten om iets af te maken. Na het afmaken moest ik vrijwel elke keer feedback verwerken en hiermee mijn code verbeteren. Dit was erg leerzaam. De gekregen feedback heb ik vervolgens ook meegenomen naar de volgende opdrachten.
@@ -268,4 +287,4 @@ De twee attitudes waar ik mij deze periode voornamelijk in heb ontwikkeld zijn c
 ---
 
 [comment]: # (Beschrijving attitudes beslismoment)
-
+De attitude waar ik mij deze periode voornamelijk in heb ontwikkeld is concreet analyseren. Dit komt door het beroepsproduct, hier heb ik namelijk een algoritme voor moeten uitkiezen. Hiervoor moest ik meerdere mogelijkheden analyseren en kijken welke het beste zou passen bij mijn niveau, het project, mijn interesses en het doel van de user story. Ik heb het gevoel dat ik hiervoor een goede keuze heb gemaakt, want mijn beroepsproduct was niet te lastig en ook niet te simpel. Ook sloot dit goed aan bij mijn interesses.
